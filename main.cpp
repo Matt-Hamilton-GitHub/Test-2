@@ -74,7 +74,7 @@ int main()
 		}
 		
 		
-		//-------------output the deta -------------|
+		//-------------output the data -------------|
 	cout << "\t**************************************************************************\n";
         cout << fixed << setprecision(2);
         cout << left << setw(namefieldwith) << "Candidate" << ' ' << right << setw(votesfieldwidth) << "Votes Received" << ' ' << right << setw(percentfieldwidth) << setfill(' ') << "% of Total Votes " << endl << endl;
